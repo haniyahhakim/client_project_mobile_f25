@@ -53,7 +53,7 @@ display: flex;
   border:#00274C 2px solid;
 }
 body{
-background-image: url("images/image.png");
+background-image: url("image.png");
 }
 
 .header-container h1,
